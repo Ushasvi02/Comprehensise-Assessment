@@ -1,0 +1,47 @@
+2021-09-28 01:30:50,813 - Amazon -INFO - Intialized driver
+2021-09-28 01:30:55,135 - Amazon -INFO - Open Url
+2021-09-28 01:31:10,415 - Amazon -INFO - entered bed in searchbox
+2021-09-28 01:31:15,203 - Amazon -INFO - Intialized driver
+2021-09-28 01:31:17,303 - Amazon -INFO - Open Url
+2021-09-28 01:31:34,795 - Amazon -INFO - clicked cupboard button successfully
+2021-09-28 01:31:37,281 - Amazon -INFO - close driver
+2021-09-28 01:32:00,077 - Amazon -INFO - clicked on coffee tablestand
+2021-09-28 01:32:29,993 - Amazon -INFO - Clicked on AboutUs successfully
+2021-09-28 01:32:37,056 - Amazon -INFO - close driver
+2021-09-28 01:33:36,439 - Amazon -INFO - clicked on bookshelf icon
+2021-09-28 01:33:44,312 - Amazon -INFO - window handling had done
+2021-09-28 01:34:46,113 - Amazon -INFO - clicked on stores icon
+2021-09-28 01:34:49,816 - Amazon -INFO - hovered to city
+2021-09-28 01:35:39,344 - Amazon -INFO - CHECKING SOFA SPECIFICATION IS CHECKED OR NOT???
+2021-09-28 01:59:48,240 - Amazon -INFO - Intialized driver
+2021-09-28 01:59:49,923 - Amazon -INFO - Open Url
+2021-09-28 02:26:47,421 - Amazon -INFO - Clicked on signup option
+2021-09-28 02:30:02,508 - Amazon -INFO - Intialized driver
+2021-09-28 02:30:04,504 - Amazon -INFO - Open Url
+2021-09-28 02:30:32,623 - Amazon -INFO - Intialized driver
+2021-09-28 02:30:34,562 - Amazon -INFO - Open Url
+2021-09-28 02:32:22,535 - Amazon -INFO - clicked on pinterest
+2021-09-28 02:32:22,736 - Amazon -INFO - navigated to pinterest website
+2021-09-28 02:33:12,825 - Amazon -INFO - clicked on study table
+2021-09-28 02:49:13,523 - Amazon -INFO - Clicked on signup option
+2021-09-28 02:51:10,526 - Amazon -INFO - Clicked on signup option
+2021-09-28 02:52:17,339 - Amazon -INFO - Clicked on signup option
+2021-09-28 02:54:01,223 - Amazon -INFO - Clicked on signup option
+2021-09-28 02:55:33,533 - Amazon -INFO - Clicked on signup option
+2021-09-28 02:57:24,040 - Amazon -INFO - Clicked on signup option
+2021-09-28 03:00:56,893 - Amazon -INFO - Clicked on signup option
+2021-09-28 03:01:46,285 - Amazon -INFO - Intialized driver
+2021-09-28 03:01:48,504 - Amazon -INFO - Open Url
+2021-09-28 03:02:03,583 - Amazon -INFO - Entered chair in searchbox
+2021-09-28 03:02:13,719 - Amazon -INFO - Intialized driver
+2021-09-28 03:02:16,070 - Amazon -INFO - Open Url
+2021-09-28 03:03:01,244 - Amazon -INFO - clicked on coffee tablestand
+2021-09-28 03:03:30,364 - Amazon -INFO - Clicked on AboutUs successfully
+2021-09-28 03:03:35,051 - Amazon -INFO - close driver
+2021-09-28 03:03:59,515 - Amazon -INFO - clicked on pinterest
+2021-09-28 03:03:59,534 - Amazon -INFO - navigated to pinterest website
+2021-09-28 03:04:29,551 - Amazon -INFO - clicked on bookshelf icon
+2021-09-28 03:04:31,077 - Amazon -INFO - window handling had done
+2021-09-28 03:05:30,480 - Amazon -INFO - clicked on stores icon
+2021-09-28 03:05:34,073 - Amazon -INFO - hovered to city
+2021-09-28 03:06:14,075 - Amazon -INFO - CHECKING SOFA SPECIFICATION IS CHECKED OR NOT???

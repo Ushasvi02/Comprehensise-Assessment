@@ -1,0 +1,47 @@
+2021-09-28 01:30:50,813 [main] INFO Amazon - Intialized driver
+2021-09-28 01:30:55,135 [main] INFO Amazon - Open Url
+2021-09-28 01:31:10,415 [main] INFO Amazon - entered bed in searchbox
+2021-09-28 01:31:15,203 [main] INFO Amazon - Intialized driver
+2021-09-28 01:31:17,303 [main] INFO Amazon - Open Url
+2021-09-28 01:31:34,795 [main] INFO Amazon - clicked cupboard button successfully
+2021-09-28 01:31:37,281 [main] INFO Amazon - close driver
+2021-09-28 01:32:00,077 [main] INFO Amazon - clicked on coffee tablestand
+2021-09-28 01:32:29,993 [main] INFO Amazon - Clicked on AboutUs successfully
+2021-09-28 01:32:37,056 [main] INFO Amazon - close driver
+2021-09-28 01:33:36,439 [main] INFO Amazon - clicked on bookshelf icon
+2021-09-28 01:33:44,312 [main] INFO Amazon - window handling had done
+2021-09-28 01:34:46,113 [main] INFO Amazon - clicked on stores icon
+2021-09-28 01:34:49,816 [main] INFO Amazon - hovered to city
+2021-09-28 01:35:39,344 [main] INFO Amazon - CHECKING SOFA SPECIFICATION IS CHECKED OR NOT???
+2021-09-28 01:59:48,240 [main] INFO Amazon - Intialized driver
+2021-09-28 01:59:49,923 [main] INFO Amazon - Open Url
+2021-09-28 02:26:47,421 [main] INFO Amazon - Clicked on signup option
+2021-09-28 02:30:02,508 [main] INFO Amazon - Intialized driver
+2021-09-28 02:30:04,504 [main] INFO Amazon - Open Url
+2021-09-28 02:30:32,623 [main] INFO Amazon - Intialized driver
+2021-09-28 02:30:34,562 [main] INFO Amazon - Open Url
+2021-09-28 02:32:22,535 [main] INFO Amazon - clicked on pinterest
+2021-09-28 02:32:22,736 [main] INFO Amazon - navigated to pinterest website
+2021-09-28 02:33:12,825 [main] INFO Amazon - clicked on study table
+2021-09-28 02:49:13,523 [main] INFO Amazon - Clicked on signup option
+2021-09-28 02:51:10,526 [main] INFO Amazon - Clicked on signup option
+2021-09-28 02:52:17,339 [main] INFO Amazon - Clicked on signup option
+2021-09-28 02:54:01,223 [main] INFO Amazon - Clicked on signup option
+2021-09-28 02:55:33,533 [main] INFO Amazon - Clicked on signup option
+2021-09-28 02:57:24,040 [main] INFO Amazon - Clicked on signup option
+2021-09-28 03:00:56,893 [main] INFO Amazon - Clicked on signup option
+2021-09-28 03:01:46,285 [main] INFO Amazon - Intialized driver
+2021-09-28 03:01:48,504 [main] INFO Amazon - Open Url
+2021-09-28 03:02:03,583 [main] INFO Amazon - Entered chair in searchbox
+2021-09-28 03:02:13,719 [main] INFO Amazon - Intialized driver
+2021-09-28 03:02:16,070 [main] INFO Amazon - Open Url
+2021-09-28 03:03:01,244 [main] INFO Amazon - clicked on coffee tablestand
+2021-09-28 03:03:30,364 [main] INFO Amazon - Clicked on AboutUs successfully
+2021-09-28 03:03:35,051 [main] INFO Amazon - close driver
+2021-09-28 03:03:59,515 [main] INFO Amazon - clicked on pinterest
+2021-09-28 03:03:59,534 [main] INFO Amazon - navigated to pinterest website
+2021-09-28 03:04:29,551 [main] INFO Amazon - clicked on bookshelf icon
+2021-09-28 03:04:31,077 [main] INFO Amazon - window handling had done
+2021-09-28 03:05:30,480 [main] INFO Amazon - clicked on stores icon
+2021-09-28 03:05:34,073 [main] INFO Amazon - hovered to city
+2021-09-28 03:06:14,075 [main] INFO Amazon - CHECKING SOFA SPECIFICATION IS CHECKED OR NOT???
